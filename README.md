@@ -33,7 +33,7 @@ To run the analysis:
 3. Open the Jupyter notebooks in a Jupyter environment and execute cells in sequence.
 
 ## Contributors
-[List of contributors, if applicable]
+[https://github.com/dlaskowski23]
+[https://github.com/jguevarabbl]
 
-## License
-[Specify the license under which this project is released, if applicable]
+

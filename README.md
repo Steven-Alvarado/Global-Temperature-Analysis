@@ -4,7 +4,7 @@
 This data science project analyzes the recorded global temperature dataset from UC Berkeley. The aim is to uncover trends and patterns in global temperatures over time using advanced statistical and machine learning techniques.
 
 ## Data Source
-The primary dataset used in this project can be found at (https://berkeleyearth.org/data/) with a complete text file of the data at (https://berkeley-earth-temperature.s3.us-west-1.amazonaws.com/Global/Land_and_Ocean_complete.txt), which includes monthly global temperature records from 1850 to the present. Key columns in the dataset are:
+The primary dataset used in this project can be found at (https://berkeleyearth.org/data/) with a complete text file of the data at (https://berkeley-earth-temperature.s3.us-west-1.amazonaws.com/Global/Land_and_Ocean_complete.txt), which includes monthly global temperature records from 1850 to the 2015. Key columns in the dataset are:
 
 - `dt` (date)
 - `LandAverageTemperature`

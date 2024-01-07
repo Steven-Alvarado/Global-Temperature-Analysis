@@ -9,9 +9,8 @@ The primary dataset used in this project can be found at (https://berkeleyearth.
 - `dt` (date)
 - `LandAverageTemperature`
 - `LandAverageTemperatureUncertainty`
-- `LandMaxTemperature`
-- `LandMinTemperature`
 - `LandAndOceanAverageTemperature`
+- `LandAndOceanAverageTemperatureUncertainty`
 
 ## Analysis Notebooks
 Two Jupyter notebooks are included for detailed analysis:
